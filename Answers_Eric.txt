@@ -1,0 +1,16 @@
+Code Section 1 - Data Loading
+Question 1
+What is the meaning of each column in the output from executing code block 1.2?
+There're a total of 4 sensor group locations: Wrist, Chest, Hip and Ankle. 
+Each sensor group has got 2 types of sensors: Accelerometer and Gyroscope. 
+The Accelerometer measuring linear acceleration is in 3 axes and the Gyroscope measuring angular rotation is also in 3 axes.
+The last number (25th) states what activity the data is related to. 
+Reference: Week 4 Lecture slide Page 44
+
+
+
+Code Section 2- Signal Processing
+Question 1
+What are the output from executing code block 2.2? (Hint: think of the activity, the sensor and number of sensor 
+records used)?
+It's plotting the Accelerometer readouts from record 500 to 1500 wherever the record is tagged as Activity 1 (Sitting). 
