@@ -1,0 +1,36 @@
+Section 1
+
+#Question 3
+#
+#Treadmill running (8.3 km/h)
+
+
+
+Section 3
+
+#Question 1
+#
+#What are the output from executing code block 3.1? (Hint: think of the activity and the sensor)
+#
+#For x, y and z axis data of the accelerometer, a min and max value is extracted. 
+#So the first six numbers are features and the last number is the activity label.
+
+
+
+#Question 2
+#
+#After executing code block 3.3, there is a definition of window, what exactly is the window? (Hint: think from 
+#feature engineering perspective, shall we retrieve one specific numeric feature, for instance max for the X axle 
+#of the first gyroscope sensor in the dataset used for the HAR project? why yes? why not?)
+#
+#From code block 1.4 we can see the number of samples of activity and windows from code block 3.3 seem to be an the number of samples/1000.
+#And for each window there are 1000 rows of activity. So, a window is a way of grouping large samples(?).
+
+
+#Question 3
+#
+#After executing code block 3.3, what patterns you can see from the output difference/similarity between dataset_1 
+#and dataset_3? (Hint: think from the number of windows for each activity)
+#
+#The number of windows or samples are similar for all activities between dataset_1 and dataset_3.
+#Activity 7 has the most windows and activity 8 and 9 has the least windows.
