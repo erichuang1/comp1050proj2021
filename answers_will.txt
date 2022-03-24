@@ -1,0 +1,14 @@
+1.2: 
+In a set of data, for each activity there is x amount of rows assigned to it.
+
+In terms of the meaning of the data, the dataset_number is the number of the subject, the samples are the 
+records in which the data from the sensor files is stored, and the activity number is the label for each 
+record noting which activity they were doing. 
+
+2.2: 
+Each output is an activity with sensor records 500 to 1500 graphed, but this time the noise (spread) 
+of each line is significantly reduced, allowing for the data to be more easily read.
+
+2.3:
+The outputs are a graph with activity 10's gyroscope data plotted with sensor data from records 
+500-1500, and another graph but with reduced spread/noise. 
