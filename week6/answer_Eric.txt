@@ -1,0 +1,88 @@
+Challenge 3
+
+Question 1
+
+After running code block 2.1 where we change K value of the KNN model from 3 to 4 , compared to the results from running 
+code block 1.1, which actitivies have improved 
+accuracy and which activities has decreased accuracy?  How about the overall accuracy (improved or dropped)? 
+
+Improved: 
+Standing              1-5
+Washing dishes        16-20
+Walking outside       0-34
+Descending stairs     3-6
+Bicycling (50 watt)   18-19
+
+Decreased: 
+Sweeping              7-5
+
+Overall accuracy is improved from 42.3% to 60.7%
+
+
+Question 2
+
+After running code block 2.2 where we further increase the value of model K value to 6 from 4, compared to the results from running 
+code block 2.1, does such change help in improving the accuracy? If so, which activities has improved accuracy? 
+How about the overal accuracy (improved or dropped)?
+
+It does not help much on improving the accuracy. In fact it decreased the accuracy by a little, from 60.7% to 59.4%. 
+
+Improved: 
+Activity Name       Changes True    False   Accuracy
+Standing            +2      7       5       53.8%
+Descending stairs   +1      7       0       100%
+Bicycling (50 watt) +1      20      4       83.3%
+
+Decreased:      
+Activity Name       Changes True    False   Accuracy
+Washing dishes      -1      19      5       79.2%
+Vacuuming           -1      9       3       75%
+Sweeping            -1      4       11      26.7%
+Walking outside     -4      30      25      36.4%
+
+
+Question 3
+
+After running code block 2.3 where we used 2 participants data to train the main instead of using 1, compared to the results from running 
+code block 2.1, which actitivies have improved 
+accuracy and which activities has decreased accuracy?  How about the overall accuracy (improved or dropped)?
+
+Improved: 
+Standing                        7-9
+Washing dishes                  19-20
+Walking outside                 30-45
+Ascending stairs                0-3
+Bicycling (100 watt)            1-9
+
+Decreased: 
+Vacuuming                       9-1
+Sweeping                        4-3
+Descending stairs               7-2
+Treadmill running (8.3 km/h)    24-16
+Bicycling (50 watt)             20-2
+Rope jumping                    9-7
+
+The overall accuracy has dropped from 60.7% to 53.1%, probably because different people have different habits or behaviours. 
+
+
+Question 4
+
+After running code block 2.4 where we used 4 participants data to train the model, compared to the results from running 
+code block 2.3, which actitivies have improved 
+accuracy and which activities has decreased accuracy?  How about the overall accuracy (improved or dropped)?
+
+
+Improved: 
+Sitting                 0-7
+Vacuuming               1-9
+Bicycling (50 watt)     2-23
+Rope jumping            7-13
+
+Decreased: 
+Lying                   12-11
+Standing                9-3
+Washing dishes          20-19
+Walking outside         45-21
+Bicycling (100 watt)    9-1
+
+Overall accuracy is improved from 53.1% to 63.1% as the data is getting generalized
