@@ -1,0 +1,16 @@
+2.2out
+
+Accuracy:  0.5941422594142259
+[[ 0  1  0  0  0  0  0  0  0  0 11  0  0]	    Sitting
+ [ 0 12  0  0  0  0  0  0  0  0  0  0  0]	    Lying
+ [ 0  3  7  0  0  0  2  0  0  0  0  0  0]	    Standing
+ [ 0  0  0 19  3  1  0  0  0  0  0  1  0]	    Washing dishes
+ [ 0  0  0  0  9  1  0  1  1  0  0  0  0]	    Vacuuming
+ [ 0  0  0  7  2  4  0  0  2  0  0  0  0]	    Sweeping
+ [ 0  0  0  3  0  2 30  0 20  0  0  0  0]	    Walking outside
+ [ 0  0  0  0  0  0  6  0  3  0  0  0  0]	    Ascending stairs
+ [ 0  0  0  0  0  0  0  0  7  0  0  0  0]	    Descending stairs
+ [ 0  0  0  0  0  0  0  0  0 24  0  0  0]	    Treadmill running (8.3 km/h)
+ [ 0  0  0  2  0  0  0  0  0  0 20  2  0]	    Bicycling (50 watt)
+ [ 0  1  0  1  0  1  0  0  0  0 20  1  0]	    Bicycling (100 watt)
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  9]]	    Rope jumping
