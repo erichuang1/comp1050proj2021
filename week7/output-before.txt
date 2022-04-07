@@ -1,0 +1,50 @@
+Valid Date test:  1
+input: ( 1 , 1 , 1900 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  2
+input: ( 1 , 1 , 2000 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  3
+input: ( 31 , 1 , 1980 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  4
+input: ( 31 , 4 , 1980 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  5
+input: ( 31 , 11 , 1980 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  6
+input: ( 29 , 2 , 1996 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  7
+input: ( 29 , 2 , 1904 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  8
+input: ( 29 , 2 , 1900 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  9
+input: ( 5 , 9 , 1752 )
+code output:  True
+What was the expected output? 
+ 
+Valid Date test:  10
+input: ( 4 , 6 , 2000 )
+code output:  True
+What was the expected output? 
+ 

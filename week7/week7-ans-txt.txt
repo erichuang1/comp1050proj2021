@@ -1,0 +1,23 @@
+ans week 7
+
+1) Look at the test data and identify equivalence partitions
+
+leap year
+2,3,4,5,6,7,9,10
+
+months with 31 days
+1,2,3
+
+1752 Sep 3rd-13th
+Class 1 (non valid): 3-13th
+Class 2 (valid): 1,2,14-30th
+
+
+
+2) Consider adding some extra tests based on equivalence partitions not currently in the tests
+
+
+3) [Optional] Consider modifying the function to help it to pass more tests
+
+
+4) Reflect on the test results from before and after the additions you’ve made to the test data and or the ‘broken’ function.
