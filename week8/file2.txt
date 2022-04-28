@@ -1,3 +1,4 @@
 Your name: Eric Huang
 
 Test Passed - change this to test passed.
+pavi test
