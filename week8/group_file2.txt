@@ -7,8 +7,11 @@ There is a section below which has multiple parts. Each of you has been allocate
 
 Part 1
 
-Taegyu Lee 7:16 PM
-12
+Enter your name and the time here
+Enter a random integer between 1 and 100 here
+
+Eric Huang 19:21
+66
 
 End Part 1
 
