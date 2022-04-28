@@ -16,9 +16,10 @@ End Part 1
 
 Part 2
 
-<<Enter your name and the time here>>
-<<enter a paragraph here of about 5 - 10 lines>>
-
+<<Pavi 28/APR/2022 6:05pm>>
+Kangaroos are the world's largest marsupials.
+A Red Kangaroo can weigh 90kg and can grow two metres tall.
+Kangaroos are famous for their means of locomotion: hopping!
 End Part 2
 
 
