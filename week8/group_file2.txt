@@ -9,6 +9,8 @@ Part 1
 
 Pavi 7:16 PM
 12
+Enter your name and the time here
+Enter a random integer between 1 and 100 here
 
 End Part 1
 
