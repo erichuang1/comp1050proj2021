@@ -10,7 +10,7 @@ Part 1
 Enter your name and the time here
 Enter a random integer between 1 and 100 here
 
-Eric Huang 19:21
+Eric Huang 19:23
 66
 
 End Part 1
