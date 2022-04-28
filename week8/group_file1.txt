@@ -7,8 +7,10 @@ There is a section below which has multiple parts. Each of you will be allocated
 
 Part 1
 
-<<Enter your name and the time here>>
-<<enter a paragraph here of about 5 - 10 lines>>
+Eric Huang 2022-04-28 18:05
+Today’s annual Earth Day Doodle addresses one of the most pressing topics of our time: climate change. 
+
+Using real time-lapse imagery from Google Earth Timelapse and other sources, the Doodle shows the impact of climate change across four different locales around our planet. Stay tuned throughout the day to view these scenes, each remaining on the homepage for several hours at a time.
 
 End Part 1
 
